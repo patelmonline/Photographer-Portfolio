@@ -27,5 +27,5 @@ TODO
 TOOLS
 ======
 
-the images/photos used are from [http://openphoto.net/](http://openphoto.net/)
+the images/photos used are from [http://openphoto.net/](http://openphoto.net/)<br>
 the camera icon used is from [findicons](http://findicons.com/)
