@@ -18,6 +18,7 @@ TODO
 
 - tidy up code
 - check spelling and grammar
+- fix slight bugs that occur when screen gets way to small, this can be easily fixed with a media query
 
 
 -----------------------------
