@@ -1,0 +1,66 @@
+body{
+    background: url(images/backg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+a{
+    color:white;
+    font-family:sans-serif;
+    text-decoration:none;
+}
+a:hover{
+    opacity:0.5;
+}
+h1{
+    color:white;
+    font-family:sans-serif;
+    padding-left:50px;
+}
+nav li{
+    padding-left:10px;
+    list-style-type: none;
+    display:inline;
+}
+nav ul{
+    background-color:rgba(0, 0, 0, 0.87);
+    height:55px;
+    padding:10px;
+    text-align:center;
+}
+nav li{
+    border-left:solid 2px rgba(0, 0, 0, 0.32);
+    padding-right:5px;
+    padding-left:5px;
+}
+#bio{
+    color:white;
+    width:45%;
+    float:left;
+    padding-left:40px;
+    padding-right:5px;
+}
+#container{
+    margin-left:50%;
+    padding-right:40px;
+}
+#PHOTO img{
+    height:30%;
+    width:20%;
+}
+#PHOTO {
+    width:250%;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+#bottom{
+    position:absolute;
+}
+#bottom tr{
+    color:white;
+}
+#bottom td{
+    width:140px;
+    padding-left:15px;
+}
