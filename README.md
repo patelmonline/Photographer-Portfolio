@@ -34,7 +34,7 @@ ISSUES
 
 TOOLS
 ======
-the slider was made using[Basic jQuery Slider](http://basic-slider.com/)
+the slider was made using [Basic jQuery Slider](http://basic-slider.com/)
 
 the images/photos used are from [openphoto](http://openphoto.net/)<br>
 the camera icon used is from [findicons](http://findicons.com/)
