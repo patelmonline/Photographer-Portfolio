@@ -5,14 +5,13 @@ The following site was made as an [challenge](http://www.codecademy.com/groups/h
 
 
 To view the site just click on:<br>
-[THE GITHUB VERSION](https://rawgithub.com/WaffleGnome/mac/master/main.html) <br>
+[THE GITHUB VERSION](https://rawgithub.com/WaffleGnome/Photographer-Portfolio/master/index.html) <br>
 or  <br>
 [THE DROPBOX VERSION](https://dl.dropboxusercontent.com/u/161826274/mySites/photograher_challenge/index.html) of the site.
 
 -------------------------
 
 
----------------------------
 
 TODO
 ===
