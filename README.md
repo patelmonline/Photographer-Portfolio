@@ -9,6 +9,8 @@ To view the site just click on:<br>
 or  <br>
 [THE DROPBOX VERSION](https://dl.dropboxusercontent.com/u/161826274/mySites/photograher_challenge/index.html) of the site.
 
+go [HERE](https://github.com/WaffleGnome/Photographer-Portfolio) to look at my sloppy code ^_^
+
 -------------------------
 
 
