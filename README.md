@@ -18,6 +18,7 @@ go [HERE](https://github.com/WaffleGnome/Photographer-Portfolio) to look at my s
 TODO
 ===
 - tidy up code
+- check spelling and grammar
 
 
 
