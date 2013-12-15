@@ -20,7 +20,10 @@ TODO
 - 
 
 -----------------------------
+
 ISSUES
+===
+
 - does not play well with ipad
 
 
